@@ -674,6 +674,14 @@ video {
   margin-top: 150px;
 }
 
+.mt-\[80px\] {
+  margin-top: 80px;
+}
+
+.mt-\[70px\] {
+  margin-top: 70px;
+}
+
 .flex {
   display: flex;
 }
@@ -726,6 +734,10 @@ video {
   width: 200px;
 }
 
+.w-\[360px\] {
+  width: 360px;
+}
+
 .items-center {
   align-items: center;
 }
@@ -760,6 +772,10 @@ video {
 
 .gap-\[80px\] {
   gap: 80px;
+}
+
+.gap-\[30px\] {
+  gap: 30px;
 }
 
 .rounded {
